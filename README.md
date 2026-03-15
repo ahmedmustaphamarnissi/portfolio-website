@@ -1,6 +1,6 @@
 # 🗂️ Portfolio — Marnissi Ahmed Mustapha
 
-🌐 **Live Demo:** [your-link-here]([https://your-link-here.com](https://ahmedmustaphamarnissi.github.io/portfolio-website/))
+🌐 **Live Demo:** [Live Demo](https://ahmedmustaphamarnissi.github.io/portfolio-website/)
 
 ---
 
@@ -23,5 +23,4 @@ A responsive personal portfolio website built from scratch with HTML, CSS, and V
 
 ## 📬 Contact
 
-- GitHub: [@marnissi-ahmed-mustapha](https://github.com/)
-- LinkedIn: [your-linkedin](https://linkedin.com/)
+- LinkedIn: [your-linkedin](www.linkedin.com/in/marnissi-ahmed-mustapha)
