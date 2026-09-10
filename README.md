@@ -83,9 +83,5 @@ An Angular-based educational platform for learning programming concepts, featuri
 
 ## 📬 Contact
 
-<<<<<<< HEAD
 - **GitHub:** [@ahmedmustaphamarnissi](https://github.com/ahmedmustaphamarnissi)
 - **LinkedIn:** [marnissi-ahmed-mustapha](https://www.linkedin.com/in/marnissi-ahmed-mustapha/?locale=en)
-=======
-- LinkedIn: [your-linkedin](www.linkedin.com/in/marnissi-ahmed-mustapha)
->>>>>>> 7078c6213deee3ba20157f35333d40a979bf14e2
